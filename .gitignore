@@ -1,0 +1,38 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Backup files
+*~
+*.old
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# PDF/Docx auto-save files
+~$*.docx
+~$*.pdf
+
+# Zip or archive files (optional)
+*.zip
+*.rar
+
+# Node / Python cache (if any tools used later)
+node_modules/
+__pycache__/
+
+# Environment files
+.env
+.env.local
+.env.*.local
