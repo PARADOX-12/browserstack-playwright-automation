@@ -1,0 +1,22 @@
+{
+  "name": "browserstack-playwright-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PARADOX-12/browserstack-playwright-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PARADOX-12/browserstack-playwright-automation/issues"
+  },
+  "homepage": "https://github.com/PARADOX-12/browserstack-playwright-automation#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
